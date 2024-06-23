@@ -6,3 +6,8 @@
 * Its a very simple two player Tic Tac Toe game.
 * This project purely for fun and demonstrations purpose.
 * Anyone is free to use this as starting template for their project.
+
+## License
+
+[MIT License](LICENSE)
+
